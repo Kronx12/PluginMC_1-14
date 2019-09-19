@@ -1,0 +1,8 @@
+name: Exercice_2
+description: Exercice_2
+version: 1.14
+main: fr.kronx12.Exercice_2.Main
+commands:
+   toggle_ore:
+      description: Toggle ore drop
+      usage: /toggle_ore
